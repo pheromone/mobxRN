@@ -3,7 +3,9 @@
 react native 0.57以上版本集成mobx
 
 1. <br/>
-```yarn add mobx mobx-react```
+```
+yarn add mobx mobx-react
+```
 2.  <br/>
 ```
    yarn add @babel/core --dev
