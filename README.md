@@ -2,18 +2,18 @@
 
 react native 0.57以上版本集成mobx
 
-1.
+1. <br/>
 ```yarn add mobx mobx-react```
-2. 
+2.  <br/>
 ```
    yarn add @babel/core --dev
    yarn add @babel/plugin-proposal-decorators --dev
    yarn add @babel/plugin-transform-runtime --dev
    yarn add @babel/runtime --dev
 ```
+ <br/>
 
-
-修改babel.config.js文件:
+3.修改babel.config.js文件:
 ```
 {
   "presets": ["module:metro-react-native-babel-preset"],
